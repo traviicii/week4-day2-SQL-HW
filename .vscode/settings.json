@@ -1,0 +1,28 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test_db",
+            "username": "postgres",
+            "database": "test_db",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "movie_theatre",
+            "connectString": "postgres://fjijhocu:Dcb3xQCUMG-wAOWYdGi1OsjytoSwb_7j@suleiman.db.elephantsql.com/fjijhocu"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://sgknswkh:j4zDDMIxrFdEx3eaB20Q_XoA02RvtLTV@suleiman.db.elephantsql.com/sgknswkh",
+            "name": "Movie2"
+        }
+    ]
+}
